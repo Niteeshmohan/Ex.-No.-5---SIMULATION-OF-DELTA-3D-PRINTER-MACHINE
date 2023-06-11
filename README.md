@@ -27,44 +27,49 @@
 ## OUTPUT:
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
 
-Y Axis Base :
-In a polar 3D printer, the y-axis base is a rotating platform that controls movement along the y-axis. It enables circular or spherical motion in the x-y plane while the z-axis movement is achieved through linear motion.
+Base :
+The base in a delta 3D printer is the platform that provides stability and support. It consists of three vertical towers connected by horizontal beams and holds components like motors and pulleys. It ensures the printer remains stable and allows for precise movements of the print head.
 
-Z-Axis Frame :
-The Z-axis frame in a polar 3D printer is the structure that controls the vertical movement of the print head or build platform. It allows for precise adjustment of the height of the printed object in the polar coordinate system.
+Holder :
+A holder in a delta 3D printer is a component or structure that holds and supports different parts of the printer. Examples include the carriage holder for the print head, endstop holder for sensors, filament holder for the spool, and belt holders for securing belts and pulleys.
 
-Smooth Rods :
-Smooth rods in a polar 3D printer are cylindrical rods that provide stability and guidance for the movement of printer components. They support smooth and accurate rotation around the central point, enhancing the printer's performance and print quality.
+Rod :
+In a delta 3D printer, rods are cylindrical components that enable precise movement and positioning. Vertical rods provide structural support, while horizontal rods allow for smooth horizontal movement. Tower rods connect the carriages or effector assembly and determine the printer's range of movement. Together, these rods enable accurate positioning of the print head for detailed prints.
 
-Motors :
-Motors in a polar 3D printer drive the movement of various printer parts. They can be stepper motors for precise positioning or servo motors for accurate control. Linear motors may also be used for linear motion. These motors work together with the printer's electronics to enable the necessary rotations and translations during printing.
+Top cover :
+A top cover in a delta 3D printer is a protective structure that covers the upper part of the printer. It provides protection from dust and debris, helps regulate temperature, reduces noise, enhances safety, and can improve the printer's appearance.
 
-Extruder Supporter :
-The extruder supporter in a polar 3D printer is a component that holds and supports the extruder assembly. It ensures stability and proper alignment for accurate filament extrusion during the printing process.
+Top Cover Frame :
+A top cover frame in a delta 3D printer is a sturdy structure that supports and secures the top cover. It provides stability, protects internal components, and contributes to the printer's aesthetics.
 
-Threaded Rod:
-Threaded rods in a polar 3D printer provide stability and controlled vertical movement along the Z-axis. They are used with nuts or couplers to adjust and position components like the build platform. They are cost-effective and essential for accurate layer-by-layer printing.
+Linear Rail : A linear rail in a delta 3D printer is a motion system that replaces traditional linear bearings and rods. It consists of a rail with rollers or balls and a carriage that moves along the rail. Linear rails provide increased stability, higher load capacity, improved precision, lower friction, and durability compared to traditional linear bearings. They enable smooth and precise movement of components like the print head or print bed carriage.
 
-Y-Axis Frame :
-The Y-axis frame in a polar 3D printer supports and guides the horizontal movement from front to back. It provides stability and allows for precise positioning of the print head or build platform along the radial direction.
+Motor :
+Motors in a delta 3D printer drive the mechanical movements and control various components. Stepper motors enable precise positioning of the towers, carriages, and print head. The extruder motor feeds filament, while cooling fan motors dissipate heat. Motorized filament spool holders ensure smooth filament feeding. They are controlled by the printer's electronics and firmware for synchronized movements.
 
-Motor with Gear :
-A motor with gear in a polar 3D printer is a combination used to provide controlled rotational motion. The motor generates the force, while the gear mechanism enhances torque or speed to drive components like the print head or build platform with precision.
+Base :
+In a delta 3D printer, the base is the stable and supportive structure that holds the printer's components together. It consists of three vertical towers in a triangular formation, connected by horizontal beams. The base ensures stability during operation and enables precise movement of the print head.
 
-Motor with Pulley :
-A motor with pulley in a polar 3D printer converts rotational motion into linear movement. The motor rotates, and the attached pulley transfers this motion to a belt or cable, allowing precise positioning of components like the print head or build platform along the radial direction.
+Bed :
+In a delta 3D printer, the bed is the flat surface where the object being printed is placed. It provides stability and adhesion for the printed layers. Some beds can be heated to improve print quality and minimize warping. Proper leveling of the bed ensures accurate printing.
 
-Gears :
-Gears in a polar 3D printer transmit rotational motion between components. They can adjust speed, torque, and direction of rotation. Gears ensure smooth and accurate movement, enhancing the printer's performance and reliability.
+Slide with Connector :
+A slide with connector in a delta 3D printer is a component or mechanism that allows for smooth sliding or linear movement and has a connector interface for attaching other parts.
 
-Plate :
-In a polar 3D printer, the "plate" refers to the build plate or print bed. It is a flat surface where the printed object is created and adheres during printing. The plate provides stability and a level surface for accurate printing.
+Connecting Rods :
+Connecting rods in a delta 3D printer are adjustable rods that link the carriages or effector assembly to the vertical and horizontal rods. They enable precise movement and help maintain alignment for accurate printing.
 
 Extruder :
-The extruder in a polar 3D printer feeds, melts, and deposits the filament material for printing. It consists of a motor, filament drive, and hot end. It melts and extrudes the filament through a nozzle to create the printed object.
+The extruder in a delta 3D printer feeds and controls the filament during printing. It consists of a motor, filament drive mechanism, and guides the filament into the hot end for melting and deposition.
 
-Filament :
-Filament in a polar 3D printer is the material used for printing. It is a thin strand supplied on a spool and is melted and deposited layer by layer to create the printed object. Different types of filament with varied properties and colors are available for different printing needs.
+Pins :
+In a delta 3D printer, pins are small metal components used for various purposes, such as endstop switches, electrical connectors, or guide pins for alignment and stabilization.
+
+Motor with Gear :
+A motor with gear in a delta 3D printer is a combination of a stepper motor and a gear mechanism. It is commonly used in the extruder assembly to control filament feeding by providing precise movement and increased torque.
+
+LCD :
+The LCD in a delta 3D printer is a display that shows important information and enables user interaction. It provides details about print progress, temperatures, settings, and allows users to navigate menus, adjust options, and control the printer.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
